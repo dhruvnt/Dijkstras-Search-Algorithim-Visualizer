@@ -1,3 +1,4 @@
-#Dijkstras Search Algorithm Visualiser
+# A* Search Algorithm Visualiser
 
-Creating a Python search algorithm visualizer, based on the A*(also known as Dijkstras) algorithm!
+Created a Python Based search algorithm visualizer. The Visualiser uses Pygame to create an interactive search grid. The program will use A*(Dijkstras) algorithm to find the optimal path from Node A to Node B
+
